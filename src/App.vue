@@ -29,7 +29,8 @@ export default {
   },
   data(){
     return {
-      items: []
+      items: [],
+      cart: []
     }
   },
   mounted(){
