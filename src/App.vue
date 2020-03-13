@@ -7,7 +7,7 @@
           <Inventory :items="items"></Inventory>
         </div>
         <div class="col-3">
-          <Cart></Cart>
+          <Cart :items="cart"></Cart>
         </div>
       </div>
     </div>
