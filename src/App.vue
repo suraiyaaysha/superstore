@@ -1,28 +1,45 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Navbar></Navbar>
+    <div class="container">
+      <div class="row">
+        <div class="col-9">
+          <Inventory :items="items"></Inventory>
+        </div>
+        <div class="col-3">
+          <Cart></Cart>
+        </div>
+      </div>
+    </div>
+
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from './components/Navbar'
+import Cart from './components/Cart'
+import Inventory from './components/Inventory'
+import data from './data'
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
+    Navbar,
+    Cart,
+    Inventory
+  },
+  data(){
+    return {
+      items: []
+    }
+  },
+  mounted(){
+    this.items = data
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+ .container{
+   padding-top: 30px;
+ }
 </style>
