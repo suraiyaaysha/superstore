@@ -1,13 +1,13 @@
 <template>
   <div id="app">
-    <Navbar></Navbar>
+    <Navbar @search="search"></Navbar>
     <div class="container">
       <div class="row">
         <div class="col-9">
-          <Inventory :items="items"></Inventory>
+          <inventory @newItemAdded="addCartItem" :items="items"></inventory>
         </div>
         <div class="col-3">
-          <Cart :items="cart"></Cart>
+          <cart @itemRemoved="removeItem" :items="cart"></cart>
         </div>
       </div>
     </div>
@@ -35,6 +35,20 @@ export default {
   },
   mounted(){
     this.items = data
+  },
+  methods: {
+    addCartItem(item){
+      this.cart.push(item)
+    },
+    removeItem(index){
+      this.cart.splice(index, 1)
+    },
+    search(keyword){
+      this.items = data.filter(item =>{
+        return item.title.toLowerCase().indexOf(keyword.toLowerCase()) !== -1
+      }
+      )
+    }
   }
 }
 </script>
