@@ -1,5 +1,13 @@
 <template>
   <div id="app">
+    <router-link :to="{path:'/'}">Home</router-link>
+    <router-link :to="{path:'/test/1'}">Test1</router-link>
+    <router-link :to="{path:'/test/2'}">Test2</router-link>
+    <router-link :to="{path:'/test/3'}">Test3</router-link>
+    <router-link :to="{path:'/test/4'}">Test4</router-link>
+
+    <router-view></router-view>
+
     <Navbar @search="search"></Navbar>
     <div class="container">
       <div class="row">
