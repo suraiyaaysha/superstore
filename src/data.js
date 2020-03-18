@@ -2,501 +2,501 @@ export default
 [{
     "id": 1,
     "title": "Audi",
-    "photo": "http://dummyimage.com/232x210.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "3.77"
   }, {
     "id": 2,
     "title": "Lexus",
-    "photo": "http://dummyimage.com/219x207.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "6.04"
   }, {
     "id": 3,
     "title": "Mitsubishi",
-    "photo": "http://dummyimage.com/211x211.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "7.85"
   }, {
     "id": 4,
     "title": "Mercury",
-    "photo": "http://dummyimage.com/238x214.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "0.42"
   }, {
     "id": 5,
     "title": "Suzuki",
-    "photo": "http://dummyimage.com/241x244.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "8.36"
   }, {
     "id": 6,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/244x201.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "3.51"
   }, {
     "id": 7,
     "title": "Ford",
-    "photo": "http://dummyimage.com/243x200.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "7.66"
   }, {
     "id": 8,
     "title": "Porsche",
-    "photo": "http://dummyimage.com/237x221.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "6.34"
   }, {
     "id": 9,
     "title": "Maybach",
-    "photo": "http://dummyimage.com/228x244.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "9.58"
   }, {
     "id": 10,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/211x237.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "7.46"
   }, {
     "id": 11,
     "title": "Morgan",
-    "photo": "http://dummyimage.com/202x201.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "8.47"
   }, {
     "id": 12,
     "title": "Kia",
-    "photo": "http://dummyimage.com/234x201.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "5.75"
   }, {
     "id": 13,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/249x212.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "5.19"
   }, {
     "id": 14,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/220x208.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "3.85"
   }, {
     "id": 15,
     "title": "GMC",
-    "photo": "http://dummyimage.com/201x237.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "5.57"
   }, {
     "id": 16,
     "title": "Lotus",
-    "photo": "http://dummyimage.com/237x222.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "0.16"
   }, {
     "id": 17,
     "title": "Mercury",
-    "photo": "http://dummyimage.com/238x214.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "7.86"
   }, {
     "id": 18,
     "title": "Suzuki",
-    "photo": "http://dummyimage.com/205x239.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "5.58"
   }, {
     "id": 19,
     "title": "GMC",
-    "photo": "http://dummyimage.com/205x210.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "6.42"
   }, {
     "id": 20,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/212x215.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "0.04"
   }, {
     "id": 21,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/250x226.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "4.96"
   }, {
     "id": 22,
     "title": "Ford",
-    "photo": "http://dummyimage.com/240x244.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "0.16"
   }, {
     "id": 23,
     "title": "Lincoln",
-    "photo": "http://dummyimage.com/200x212.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "4.06"
   }, {
     "id": 24,
     "title": "Suzuki",
-    "photo": "http://dummyimage.com/221x244.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "7.37"
   }, {
     "id": 25,
     "title": "Mercury",
-    "photo": "http://dummyimage.com/219x214.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "5.55"
   }, {
     "id": 26,
     "title": "Subaru",
-    "photo": "http://dummyimage.com/233x230.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "4.55"
   }, {
     "id": 27,
     "title": "Mercedes-Benz",
-    "photo": "http://dummyimage.com/242x208.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "8.59"
   }, {
     "id": 28,
     "title": "GMC",
-    "photo": "http://dummyimage.com/203x228.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "9.23"
   }, {
     "id": 29,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/205x219.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "9.97"
   }, {
     "id": 30,
     "title": "Mitsubishi",
-    "photo": "http://dummyimage.com/212x231.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "2.98"
   }, {
     "id": 31,
     "title": "Lexus",
-    "photo": "http://dummyimage.com/231x246.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "2.59"
   }, {
     "id": 32,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/200x243.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "2.99"
   }, {
     "id": 33,
     "title": "Volvo",
-    "photo": "http://dummyimage.com/209x245.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "3.19"
   }, {
     "id": 34,
     "title": "GMC",
-    "photo": "http://dummyimage.com/248x226.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "7.66"
   }, {
     "id": 35,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/205x209.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "2.16"
   }, {
     "id": 36,
     "title": "Ford",
-    "photo": "http://dummyimage.com/246x242.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "3.22"
   }, {
     "id": 37,
     "title": "GMC",
-    "photo": "http://dummyimage.com/233x201.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "4.44"
   }, {
     "id": 38,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/206x229.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "9.46"
   }, {
     "id": 39,
     "title": "BMW",
-    "photo": "http://dummyimage.com/219x214.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "6.44"
   }, {
     "id": 40,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/218x231.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "3.01"
   }, {
     "id": 41,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/213x202.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "7.35"
   }, {
     "id": 42,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/204x230.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "6.66"
   }, {
     "id": 43,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/215x247.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "5.52"
   }, {
     "id": 44,
     "title": "Mercedes-Benz",
-    "photo": "http://dummyimage.com/204x236.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "9.91"
   }, {
     "id": 45,
     "title": "Suzuki",
-    "photo": "http://dummyimage.com/217x238.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "4.99"
   }, {
     "id": 46,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/234x229.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "9.77"
   }, {
     "id": 47,
     "title": "Eagle",
-    "photo": "http://dummyimage.com/237x209.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "3.15"
   }, {
     "id": 48,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/203x240.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "2.82"
   }, {
     "id": 49,
     "title": "Ford",
-    "photo": "http://dummyimage.com/206x206.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "7.69"
   }, {
     "id": 50,
     "title": "Mazda",
-    "photo": "http://dummyimage.com/208x240.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "7.87"
   }, {
     "id": 51,
     "title": "Mazda",
-    "photo": "http://dummyimage.com/231x243.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "1.13"
   }, {
     "id": 52,
     "title": "Pontiac",
-    "photo": "http://dummyimage.com/246x239.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "7.40"
   }, {
     "id": 53,
     "title": "Ford",
-    "photo": "http://dummyimage.com/230x246.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "0.10"
   }, {
     "id": 54,
     "title": "Audi",
-    "photo": "http://dummyimage.com/238x247.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "5.16"
   }, {
     "id": 55,
     "title": "Cadillac",
-    "photo": "http://dummyimage.com/216x245.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "7.95"
   }, {
     "id": 56,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/234x240.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "9.85"
   }, {
     "id": 57,
     "title": "Acura",
-    "photo": "http://dummyimage.com/219x232.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "8.75"
   }, {
     "id": 58,
     "title": "Honda",
-    "photo": "http://dummyimage.com/217x203.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "4.78"
   }, {
     "id": 59,
     "title": "Audi",
-    "photo": "http://dummyimage.com/212x213.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "5.45"
   }, {
     "id": 60,
     "title": "Lamborghini",
-    "photo": "http://dummyimage.com/241x221.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "0.28"
   }, {
     "id": 61,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/215x241.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "6.92"
   }, {
     "id": 62,
     "title": "Nissan",
-    "photo": "http://dummyimage.com/204x218.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "8.79"
   }, {
     "id": 63,
     "title": "Plymouth",
-    "photo": "http://dummyimage.com/242x233.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "1.70"
   }, {
     "id": 64,
     "title": "Ford",
-    "photo": "http://dummyimage.com/201x235.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "7.35"
   }, {
     "id": 65,
     "title": "Chrysler",
-    "photo": "http://dummyimage.com/212x244.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "0.53"
   }, {
     "id": 66,
     "title": "Ford",
-    "photo": "http://dummyimage.com/227x216.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "9.95"
   }, {
     "id": 67,
     "title": "Jeep",
-    "photo": "http://dummyimage.com/213x232.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "1.93"
   }, {
     "id": 68,
     "title": "Volkswagen",
-    "photo": "http://dummyimage.com/249x221.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "5.05"
   }, {
     "id": 69,
     "title": "Ford",
-    "photo": "http://dummyimage.com/240x209.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "7.01"
   }, {
     "id": 70,
     "title": "Mercedes-Benz",
-    "photo": "http://dummyimage.com/242x209.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "9.49"
   }, {
     "id": 71,
     "title": "Volkswagen",
-    "photo": "http://dummyimage.com/237x215.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "1.04"
   }, {
     "id": 72,
     "title": "Pontiac",
-    "photo": "http://dummyimage.com/227x222.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "3.71"
   }, {
     "id": 73,
     "title": "Audi",
-    "photo": "http://dummyimage.com/223x205.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "6.91"
   }, {
     "id": 74,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/247x226.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "6.88"
   }, {
     "id": 75,
     "title": "GMC",
-    "photo": "http://dummyimage.com/239x228.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "1.87"
   }, {
     "id": 76,
     "title": "Lincoln",
-    "photo": "http://dummyimage.com/222x240.png/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": "1.17"
   }, {
     "id": 77,
     "title": "Mercury",
-    "photo": "http://dummyimage.com/200x213.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "0.05"
   }, {
     "id": 78,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/236x242.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "4.04"
   }, {
     "id": 79,
     "title": "Volkswagen",
-    "photo": "http://dummyimage.com/227x218.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "1.63"
   }, {
     "id": 80,
     "title": "GMC",
-    "photo": "http://dummyimage.com/246x242.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "8.56"
   }, {
     "id": 81,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/215x204.bmp/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/5fa2dd/ffffff",
     "price": "5.10"
   }, {
     "id": 82,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/239x207.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "7.44"
   }, {
     "id": 83,
     "title": "Plymouth",
-    "photo": "http://dummyimage.com/230x243.bmp/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
     "price": "9.67"
   }, {
     "id": 84,
     "title": "Saab",
-    "photo": "http://dummyimage.com/233x201.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "6.67"
   }, {
     "id": 85,
     "title": "Suzuki",
-    "photo": "http://dummyimage.com/236x214.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "9.02"
   }, {
     "id": 86,
     "title": "Isuzu",
-    "photo": "http://dummyimage.com/244x247.bmp/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.bmp/ff4444/ffffff",
     "price": "5.40"
   }, {
     "id": 87,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/208x221.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "6.28"
   }, {
     "id": 88,
     "title": "Infiniti",
-    "photo": "http://dummyimage.com/236x212.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "1.59"
   }, {
     "id": 89,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/238x225.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "7.43"
   }, {
     "id": 90,
     "title": "Nissan",
-    "photo": "http://dummyimage.com/214x240.png/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
     "price": "5.86"
   }, {
     "id": 91,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/212x201.jpg/5fa2dd/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
     "price": "3.89"
   }, {
     "id": 92,
     "title": "Chevrolet",
-    "photo": "http://dummyimage.com/213x229.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "7.99"
   }, {
     "id": 93,
     "title": "Pontiac",
-    "photo": "http://dummyimage.com/244x207.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "6.62"
   }, {
     "id": 94,
     "title": "Toyota",
-    "photo": "http://dummyimage.com/246x222.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "9.74"
   }, {
     "id": 95,
     "title": "Mercedes-Benz",
-    "photo": "http://dummyimage.com/246x239.png/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": "9.02"
   }, {
     "id": 96,
     "title": "Maybach",
-    "photo": "http://dummyimage.com/250x238.jpg/ff4444/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
     "price": "5.88"
   }, {
     "id": 97,
     "title": "Ford",
-    "photo": "http://dummyimage.com/228x219.bmp/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
     "price": "6.12"
   }, {
     "id": 98,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/240x231.jpg/cc0000/ffffff",
+    "photo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
     "price": "7.25"
   }, {
     "id": 99,
     "title": "Cadillac",
-    "photo": "http://dummyimage.com/218x242.jpg/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
     "price": "8.66"
   }, {
     "id": 100,
     "title": "Dodge",
-    "photo": "http://dummyimage.com/233x213.png/dddddd/000000",
+    "photo": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": "6.17"
   }]
