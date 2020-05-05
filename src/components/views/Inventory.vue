@@ -40,7 +40,7 @@
             },
             fetchInventory(){
                 var self = this
-                axios.get('http://ayshatech.com/Vuejs/data.json').then(response => {
+                axios.get('http://localhost:3000/items').then(response => {
                     // setTimeout(function(){
                         // self.items = response.data
                         self.$store.commit('setInventory', response.data)
