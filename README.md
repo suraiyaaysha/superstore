@@ -1,4 +1,5 @@
-# superstore
+# Superstore, <a href="https://superstore.netlify.app/">Demo Link</a>
+Vue js based Inventory Managment System
 
 ## Project setup
 ```
